@@ -1,0 +1,146 @@
+﻿  main.cpp
+D:\projects\sfml project\sfml project\main.cpp(582,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(582,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(840,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(947,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(962,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\sfml project\sfml project\main.cpp(962,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\projects\sfml project\sfml project\main.cpp(969,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(1003,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(1010,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(1270,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(1394,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(1399,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(1865,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(1870,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(1902,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(1997,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(1997,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(2009,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(2012,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(2015,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(2056,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2061,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2066,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2071,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2076,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2114,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(2114,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(2115,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2130,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2133,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2138,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2140,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2768,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(2953,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(2958,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(3135,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(3140,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(3148,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(3165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(3275,36): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(3678,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(3689,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(3840,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(3845,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(4055,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(4077,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(4080,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(4214,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(4770,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(4775,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(4912,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(5022,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(5034,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\projects\sfml project\sfml project\main.cpp(5224,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\projects\sfml project\sfml project\main.cpp(5555,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(5560,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(6096,11): warning C4101: 'mouse': unreferenced local variable
+D:\projects\sfml project\sfml project\main.cpp(6209,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(172,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+D:\projects\sfml project\sfml project\main.cpp(390,124): message : see reference to function template instantiation 'std::pair<float,float>::pair<int,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=int
+          ]
+D:\projects\sfml project\sfml project\main.cpp(1612,133): message : see reference to function template instantiation 'std::pair<float,float>::pair<int,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(172,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  sfml project.vcxproj -> D:\projects\sfml project\x64\Debug\sfml project.exe
